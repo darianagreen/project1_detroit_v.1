@@ -8,4 +8,5 @@ var alturaInt = parseint(altura);
 var respuestaInt = pesoInt(alturaInt*alturaInt)/100;
 
 var respuesta = ("Su IMC = " + pesoInt);
+prompt (respuesta)
 
